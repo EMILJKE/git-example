@@ -3,3 +3,4 @@ Last name: Huzyazyanov
 Age: 25
 Country: Russia 
 City: Kazan
+Car: Kia
